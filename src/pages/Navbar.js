@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Home, Image, Calendar, Menu } from 'lucide-react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
-import logo from "../Asset/wlogo.png";
+import logo from "../Asset/newlogo.webp";
 
 export default function CyberpunkNavbar() {
   const nav = useNavigate();
